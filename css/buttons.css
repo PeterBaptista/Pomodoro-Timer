@@ -1,0 +1,68 @@
+#pomodoro-button, #short-break-button, #long-break-button{
+    background-color: transparent;
+    border: none;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 5px 15px;
+    border-radius: 5px;
+    margin: 0 5px;
+    transition: 0.05s;
+    
+}
+#pomodoro-button{
+    background-color: rgba(84, 66, 66, 0.446);
+}
+#pomodoro-button:active{
+    margin-top: 2px;
+}
+#short-break-button:active{
+    margin-top: 2px;
+}
+#long-break-button:active{
+    margin-top: 2px;
+}
+
+
+#control-button{
+    font-size: 30px;
+    background-color: white;
+    color:  #32965D;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0.3px 5px 2px rgba(255, 255, 255, 0.434);
+    width: 150px;
+    height: 50px;
+    margin-left: 150px;
+
+    transition-duration: 0.1s;
+}
+
+#control-button:active{
+    box-shadow: none;
+    margin-top: 5px;
+}
+
+#pause-control-button{
+    font-size: 30px;
+    background-color: white;
+    color:  #32965D;
+    border: none;
+    border-radius: 10px;
+    margin-top: 5px;
+    width: 150px;
+    height: 50px;
+    margin-left: 150px;
+}
+
+#skip-button{
+    font-size: 30px;
+    background-color: rgba(8, 1, 1, 0.122);
+    color:  white;
+    border: none;
+    border-radius: 10px;
+    width: 70px;
+    height: 50px;
+    margin-left: 30px;
+    vertical-align: none;
+    transition-duration: 0.1s;
+}

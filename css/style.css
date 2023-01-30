@@ -1,0 +1,46 @@
+.pomodoro-part{
+    margin: 0 auto;
+    width: fit-content;           
+}
+
+.web-title{
+    margin-bottom: 10px;
+    border-bottom: 1px;
+    border-style: solid;
+    border-top: 0;
+    border-right: 0;
+    border-left: 0;
+    width: 455px;
+    padding-bottom: 10px;
+    margin-bottom: 35px;
+}
+.web-title > div{
+    font-size: 25px;
+
+}
+.container{
+    background-color: rgba(180, 176, 176, 0.4);
+    width: 455px;
+    height: 280px;
+   justify-content: center;
+   border-radius: 10px;
+
+}
+.type-section{
+    display: block;
+    margin: 0 auto;
+    padding-top: 15px;
+    padding-bottom: 5px;
+    width: fit-content;
+    
+}
+
+
+#timer{
+    font-size: 100px;
+    font-weight: bold;
+    margin: 0 auto;
+    padding: 10px;
+    width: fit-content;
+}
+

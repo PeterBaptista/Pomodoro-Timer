@@ -1,0 +1,13 @@
+body{
+    font-family: 'Sofia Sans', sans-serif;
+    margin-top: 20px;
+    background-color: #32965D;
+    transition-duration: 1s;
+}
+button:hover{
+    cursor: pointer;
+}
+a{
+    color: inherit;
+    text-decoration: none;
+}
