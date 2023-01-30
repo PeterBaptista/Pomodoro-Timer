@@ -7,19 +7,22 @@ This site is based on the <a href='https://todoist.com/productivity-methods/pomo
 
 > We have 3 sections:
 
--  1) The pomodoro timer (the timer you use to focus)
+-  1) The pomodoro timer -> the timer you use to focus
 <br>
 ![site image 1](https://github.com/PeterBaptista/Pomodoro-Timer/blob/main/web-images/pomodoro-timer.png)
+<br>
 ![site image 2](https://github.com/PeterBaptista/Pomodoro-Timer/blob/main/web-images/pomodoro-timer(1).png)
 
--  2) The short break timer (the timer you use to take a short break)
+-  2) The short break timer ->the timer you use to take a short break
 <br>
 ![site image 3](https://github.com/PeterBaptista/Pomodoro-Timer/blob/main/web-images/pomodoro-timer(2).png)
+<br>
 ![site image 4](https://github.com/PeterBaptista/Pomodoro-Timer/blob/main/web-images/pomodoro-timer(3).png)
 
--  3) The Long break timer (the timer you use to take a Long break)
+-  3) The Long break timer -> the timer you use to take a Long break
 <br>
 ![site image 5](https://github.com/PeterBaptista/Pomodoro-Timer/blob/main/web-images/pomodoro-timer(4).png)
+<br>
 ![site image 6](https://github.com/PeterBaptista/Pomodoro-Timer/blob/main/web-images/pomodoro-timer(5).png)
 
 <br><br>
