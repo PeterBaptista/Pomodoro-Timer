@@ -1,5 +1,5 @@
 # Pomodoro-Timer
-It's a website that is actually a pomodoro timer! I did it to add this as one of my portfolio projects. I used the design of <a href='https://pomofocus.io/' target='_blank'>pomofocus</a> website
+It's a website that is actually a pomodoro timer! I did it to add this as one of my portfolio projects. I used the design of <a href='https://pomofocus.io/' target='_blank'>pomofocus.io</a> website
 
 <div>
 This site is based on the <a href='https://todoist.com/productivity-methods/pomodoro-technique' target='_blank'> Pomodoro Technique </a>
